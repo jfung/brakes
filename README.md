@@ -1,6 +1,22 @@
-brakes:
-it may pull like a truck, but it should stop like a car...
+Brakes
+=========
+*Super easy deployment for people that aren't ruby-friendly*
 
+### How to:
+
+Coming soon...
+
+### Demo:
+Check out brakes powering http://brakes.grapepudding.com.
+
+### Issues:
+
+I use [github's issue tracker](http://github.com/rdnck76/brakes/issues).  If you find a bug, let me know or send me a pull request.  I'm usually pretty quick on merges.
+
+### Contact Info:
+Send me a message through github, or if you don't want to make an account, you can email me [here](http://www.google.com/recaptcha/mailhide/d?k=019VOY8sZpMAlsOi1rUb7h5w==&c=11YgbNIYIBV1qjUDhHdKEkjtNy7aEvAj4ivxy4l_hWg=). (you'll have to put up with a captcha, sorry).
+
+### License:
 © 2010 Nate Benes <http://grapepudding.com>
 
 This program is free software: you can redistribute it and/or modify
