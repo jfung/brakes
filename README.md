@@ -1,7 +1,7 @@
 brakes:
 it may pull like a truck, but it should stop like a car...
 
-@ 2010 Nate Benes <http://grapepudding.com>
+© 2010 Nate Benes <http://grapepudding.com>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
