@@ -4,7 +4,43 @@ Brakes
 
 ### How to:
 
-Coming soon...
+1) Clone this repository:
+
+    git clone git://github.com/rdnck76/brakes.git
+2) Copy all of your files to the "public" directory
+
+3) Update the index:
+
+    git add .
+4) Save your changes:
+
+    git commit -am "YOUR MESSAGE HERE"
+
+At this point you have two choices:
+
+#### Option A: Set it up with Pliers (good if you're on Windows)
+
+5) Create a Heroku account [here](https://api.heroku.com/signup)
+
+6) Login to [Pliers](https://pliers.heroku.com) and create a new application (follow the steps there)
+
+7) Send your changes to Heroku
+
+    git push heroku master
+
+
+#### Option B: Set it up through Heroku (good if you're on Linux)
+
+5) Create a Heroku account [here](https://api.heroku.com/signup)
+
+6) Install the Heroku gem ([click here for instructions](http://docs.heroku.com/heroku-command))
+
+7) Create the application
+
+    heroku create
+8) Send your changes to Heroku
+
+    git push heroku master
 
 ### Demo:
 Check out brakes powering [brakes.grapepudding.com](http://brakes.grapepudding.com).
