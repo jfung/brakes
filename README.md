@@ -7,7 +7,7 @@ Brakes
 Coming soon...
 
 ### Demo:
-Check out brakes powering http://brakes.grapepudding.com.
+Check out brakes powering [brakes.grapepudding.com](http://brakes.grapepudding.com).
 
 ### Issues:
 
